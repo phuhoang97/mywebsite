@@ -1,0 +1,301 @@
+body {
+  font-size: 13px;
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+.Lien_lienhe {
+  background-color: black;
+  height: 40px;
+  width: 100%;
+}
+
+.Lien_lienhe ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.Lien_lienhe ul li {
+  line-height: 40px;
+}
+.Lien_lienhe ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  font-family: tahoma;
+}
+.Lien_lienhe li:hover {
+  background-color: white;
+}
+.Lien_lienhe a:hover {
+  color: black;
+}
+.Lo_Logo {
+  background-color: white;
+  height: 88px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+  background-color: white;
+  width: 275px;
+  height: 88px;
+  margin-left: -56px;
+}
+
+img.imglogo {
+  width: 200px;
+  height: 88px;
+  padding-left: 80px;
+}
+
+.menu {
+  height: 88px;
+  width: 586px;
+  background-color: white;
+}
+
+.menu ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin-top: 3px;
+}
+
+.menu ul li {
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.main_menu li a {
+  display: block;
+  font-size: 15px;
+  font-weight: 400;
+  color: #000;
+  transition: inherit;
+  min-width: 81px;
+  min-height: 88px;
+  text-align: center;
+  line-height: 88px;
+  text-decoration: none;
+  font-family: tahoma;
+}
+
+.main_menu li:hover {
+  background-color: tomato;
+}
+
+.search {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+}
+#search1 {
+  margin-top: 29px;
+  border-bottom-left-radius: 6px;
+  margin-left: 62px;
+  width: 212px;
+  height: 28px;
+  border-top-left-radius: 6px;
+}
+
+.Traitim {
+  background-color: white;
+  width: 200px;
+  height: 100%;
+}
+
+.Traitim ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.Traitim ul li {
+  padding-left: 30px;
+  line-height: 60px;
+}
+
+#icon1 {
+  font-size: 30px;
+}
+img.banner1 {
+  height: 488px;
+  width: 1488px;
+}
+.slide-container {
+  background-color: white;
+}
+#carouselExampleIndicators {
+  width: 600px;
+  margin: auto;
+  padding: 10px 0px;
+  background-color: #bebebe;
+}
+#carouselExampleIndicators .carousel-item {
+  text-align: center;
+}
+.category-container {
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+}
+.category-container .element-container {
+  height: 100%;
+}
+.category-container .element-container {
+  height: 100%;
+}
+.container {
+  height: 440px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.el-1 {
+  width: 20%;
+  margin-right: 1%;
+  overflow: hidden;
+  height: 100%;
+}
+.el-1 img {
+  width: 100%;
+}
+.el-2 {
+  width: 39%;
+  margin-right: 1%;
+}
+.el-2 img {
+  width: 100%;
+}
+.el-3 {
+  width: 39%;
+}
+.el-3 img {
+  width: 100%;
+}
+.el-2-a {
+  height: 49%;
+  margin-bottom: 2%;
+}
+.el-2-a img {
+  width: 100%;
+}
+.el-2-b {
+  height: 49%;
+  display: flex;
+  flex-direction: row;
+}
+.el-2-b img {
+  width: 100%;
+}
+.el-2-b-1 {
+  width: 49%;
+  margin-right: 2%;
+  height: 100%;
+}
+.el-2-b-1 img {
+  width: 100%;
+}
+.el-2-b-2 {
+  width: 49%;
+  height: 100%;
+}
+.el-2-b-2 img {
+  width: 100%;
+}
+.Spnam {
+  height: 45px;
+  background-color: rgb(34, 14, 218);
+  top: 10px;
+}
+.Spnam ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.carousel-inner {
+  display: flex;
+  flex-direction: row;
+}
+
+.carousel-item {
+  width: 100%;
+  height: 100%;
+}
+
+.Note2 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.Note1 {
+  width: 35%;
+  margin-right: 8px;
+}
+
+.Note {
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+.Note ul {
+  list-style: none;
+  margin-right: 38px;
+}
+
+#carouselExampleIndicators {
+  width: 1200px;
+  margin: auto;
+  padding: 10px 0px;
+  background-color: white;
+  margin-top: 30px;
+}
+.Spnu {
+  height: 45px;
+  background-color: rgb(34, 14, 218);
+  top: 10px;
+  margin-top: 500px;
+}
+.Spnu ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.be_betrai {
+  background-color: white;
+  height: 200px;
+  width: 1000px;
+  margin: auto;
+}
+img.imgbetrai {
+  height: 200px;
+  width: 100%;
+  margin: auto;
+}
+.gioithieu {
+  margin-top: 430px;
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+}
+.gioithieu ul {
+  list-style: none;
+  margin-top: 6px;
+}
+.gioithieu ul li {
+  margin-left: 140px;
+}
+.gioithieu ul li a {
+  color: white;
+}
